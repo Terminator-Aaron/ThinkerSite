@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Entity.Permission/obj/Debug
+/Entity.ThinkerSite/obj/Debug
+/Permission.Common/obj/Debug
+/ThinkerSite.BusinessLogic/obj/Debug
+/ThinkerSite.WebAPI/obj/Debug
+/ThinkerSite.WebSite/obj/Debug
